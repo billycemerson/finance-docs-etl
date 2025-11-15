@@ -1,0 +1,182 @@
+[
+    {
+        "file": "20240628-laporan-keuangan-publikasi-bulanan-mei-2024-ind.pdf",
+        "metadata": {
+            "company": "PT BANK CENTRAL ASIA Tbk",
+            "year": 2024,
+            "month": 5,
+            "month_name": "Mei"
+        },
+        "data": {
+            "TOTAL ASET": "1.364.424.856",
+            "TOTAL LIABILITAS": "1.138.386.239",
+            "TOTAL EKUITAS": "226.038.617",
+            "LABA (RUGI) BERSIH PERIODE BERJALAN": "21.633.871"
+        }
+    },
+    {
+        "file": "20240815-Laporan-Keuangan-Publikasi-Bulanan-Juli-2024-ID.pdf",
+        "metadata": {
+            "company": "PT BANK CENTRAL ASIA Tbk",
+            "year": 2024,
+            "month": 7,
+            "month_name": "Juli"
+        },
+        "data": {
+            "TOTAL ASET": "1.379.197.093",
+            "TOTAL LIABILITAS": "1.143.276.905",
+            "TOTAL EKUITAS": "235.920.188",
+            "LABA (RUGI) BERSIH PERIODE BERJALAN": "31.396.033"
+        }
+    },
+    {
+        "file": "20240913-laporan-keuangan-publikasi-bulanan-agustus-2024-ind.pdf",
+        "metadata": {
+            "company": "PT BANK CENTRAL ASIA Tbk",
+            "year": 2024,
+            "month": 8,
+            "month_name": "Agustus"
+        },
+        "data": {
+            "TOTAL ASET": "1.400.604.114",
+            "TOTAL LIABILITAS": "1.159.841.409",
+            "TOTAL EKUITAS": "240.762.705",
+            "LABA (RUGI) BERSIH PERIODE BERJALAN": "35.990.685"
+        }
+    },
+    {
+        "file": "20241115-laporan-keuangan-publikasi-bulanan-oktober-2024-ind.pdf",
+        "metadata": {
+            "company": "PT BANK CENTRAL ASIA Tbk",
+            "year": 2024,
+            "month": 10,
+            "month_name": "Oktober"
+        },
+        "data": {
+            "TOTAL ASET": "1.396.684.240",
+            "TOTAL LIABILITAS": "1.145.652.406",
+            "TOTAL EKUITAS": "251.031.834",
+            "LABA (RUGI) BERSIH PERIODE BERJALAN": "46.226.027"
+        }
+    },
+    {
+        "file": "20241213-laporan-keuangan-publikasi-bulanan-november-2024-ind.pdf",
+        "metadata": {
+            "company": "PT BANK CENTRAL ASIA Tbk",
+            "year": 2024,
+            "month": 11,
+            "month_name": "November"
+        },
+        "data": {
+            "TOTAL ASET": "1.415.407.416",
+            "TOTAL LIABILITAS": "1.166.218.740",
+            "TOTAL EKUITAS": "249.188.676",
+            "LABA (RUGI) BERSIH PERIODE BERJALAN": "50.472.852"
+        }
+    },
+    {
+        "file": "20250214-laporan-keuangan-publikasi-bulanan-januari-2025-ind.pdf",
+        "metadata": {
+            "company": "PT BANK CENTRAL ASIA Tbk",
+            "year": 2025,
+            "month": 1,
+            "month_name": "Januari"
+        },
+        "data": {
+            "TOTAL ASET": "1.430.855.803",
+            "TOTAL LIABILITAS": "1.172.807.411",
+            "TOTAL EKUITAS": "258.048.392",
+            "LABA (RUGI) BERSIH PERIODE BERJALAN": "4.726.267"
+        }
+    },
+    {
+        "file": "20250314-laporan-keuangan-publikasi-bulanan-februari-2025-ind.pdf",
+        "metadata": {
+            "company": "PT BANK CENTRAL ASIA Tbk",
+            "year": 2025,
+            "month": 2,
+            "month_name": "Februari"
+        },
+        "data": {
+            "TOTAL ASET": "1.427.410.405",
+            "TOTAL LIABILITAS": "1.164.912.397",
+            "TOTAL EKUITAS": "262.498.008",
+            "LABA (RUGI) BERSIH PERIODE BERJALAN": "8.975.717"
+        }
+    },
+    {
+        "file": "20250515-laporan-keuangan-publikasi-bulanan-april-2025-ind.pdf",
+        "metadata": {
+            "company": "PT BANK CENTRAL ASIA Tbk",
+            "year": 2025,
+            "month": 4,
+            "month_name": "April"
+        },
+        "data": {
+            "TOTAL ASET": "1.456.437.422",
+            "TOTAL LIABILITAS": "1.213.453.222",
+            "TOTAL EKUITAS": "242.984.200",
+            "LABA (RUGI) BERSIH PERIODE BERJALAN": "20.211.428"
+        }
+    },
+    {
+        "file": "20250613-laporan-keuangan-publikasi-bulanan-mei-2025-ind.pdf",
+        "metadata": {
+            "company": "PT BANK CENTRAL ASIA Tbk",
+            "year": 2025,
+            "month": 5,
+            "month_name": "Mei"
+        },
+        "data": {
+            "TOTAL ASET": "1.467.183.209",
+            "TOTAL LIABILITAS": "1.219.341.255",
+            "TOTAL EKUITAS": "247.841.954",
+            "LABA (RUGI) BERSIH PERIODE BERJALAN": "25.162.919"
+        }
+    },
+    {
+        "file": "20250815-laporan-keuangan-publikasi-bulanan-juli-2025-ind.pdf",
+        "metadata": {
+            "company": "PT BANK CENTRAL ASIA Tbk",
+            "year": 2025,
+            "month": 7,
+            "month_name": "Juli"
+        },
+        "data": {
+            "TOTAL ASET": "1.466.750.654",
+            "TOTAL LIABILITAS": "1.208.995.963",
+            "TOTAL EKUITAS": "257.754.691",
+            "LABA (RUGI) BERSIH PERIODE BERJALAN": "34.707.591"
+        }
+    },
+    {
+        "file": "20250915-laporan-keuangan-publikasi-bulanan-agustus-2025-ind.pdf",
+        "metadata": {
+            "company": "PT BANK CENTRAL ASIA Tbk",
+            "year": 2025,
+            "month": 8,
+            "month_name": "Agustus"
+        },
+        "data": {
+            "TOTAL ASET": "1.476.024.326",
+            "TOTAL LIABILITAS": "1.213.573.471",
+            "TOTAL EKUITAS": "262.450.855",
+            "LABA (RUGI) BERSIH PERIODE BERJALAN": "39.058.614"
+        }
+    },
+    {
+        "file": "20251114-laporan-keuangan-publikasi-bulanan-oktober-2025-ind.pdf",
+        "metadata": {
+            "company": "PT BANK CENTRAL ASIA Tbk",
+            "year": 2025,
+            "month": 10,
+            "month_name": "Oktober"
+        },
+        "data": {
+            "TOTAL ASET": "1.498.655.101",
+            "TOTAL LIABILITAS": "1.226.872.798",
+            "TOTAL EKUITAS": "271.782.303",
+            "LABA (RUGI) BERSIH PERIODE BERJALAN": "48.256.793"
+        }
+    }
+]
